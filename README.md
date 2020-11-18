@@ -7,7 +7,7 @@
 - Ultimate Member  
 - Premium addons for Elementor
 # Directions for viewing the Frontend
-For viewing the six month plan frontend enter the following credentials:</br>username: planadmin02</br> password: assigment
+For viewing the six month plan frontend enter the following credentials:</br>username: planadmin02</br> password: assigment</br>
 For viewing the one month plan frontend enter the following credentials:</br>username: planadmin0</br>password: assigment#!001
 
 
